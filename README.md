@@ -75,11 +75,11 @@ A Intel® Galileo integra elementos de um microcontrolador e de um computador de
 ## 4. Galeria de Imagens
 
 ### Intel® Galileo Gen 1
-![Intel Galileo Gen 1](https://upload.wikimedia.org/wikipedia/commons/6/65/Intel_Galileo.jpg)  
+![Intel Galileo Gen 1](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Embedded_World_2014_Intel_Galileo_01.jpg/330px-Embedded_World_2014_Intel_Galileo_01.jpg)  
 *Imagem ilustrativa da placa Intel® Galileo Gen 1 (fonte: Wikipedia)*
 
 ### Intel® Galileo Gen 2
-![Intel Galileo Gen 2](https://www.botnroll.com.br/files/products/PCO06004.jpg)  
+![Intel Galileo Gen 2](https://www.mouser.do/images/microsites/galileo-2-raspberry-pi-2-fig-1.png)  
 *Imagem ilustrativa da placa Intel® Galileo Gen 2 (fonte: Botnroll)*
 
 ---
@@ -200,12 +200,12 @@ Estudar a Intel® Galileo é essencial para:
 
 - **Intel® Galileo Gen 2 Datasheet**  
   [Intel Galileo Gen 2 Datasheet PDF](https://www.intel.com/content/dam/www/public/us/en/documents/datasheets/galileo-g2-datasheet.pdf)  
-  :contentReference[oaicite:0]{index=0}
+ 
 
 - **Intel Galileo – Wikipedia**  
   [Intel Galileo - Wikipedia](https://en.wikipedia.org/wiki/Intel_Galileo)  
-  :contentReference[oaicite:1]{index=1}
+
 
 - **Getting Started with Intel® Galileo Gen2**  
   [Arduino Documentation: Galileo](https://www.arduino.cc/en/Guide/IntelGalileoGen2)  
-  :contentReference[oaicite:2]{index=2}
+
