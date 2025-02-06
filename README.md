@@ -165,7 +165,7 @@ A Galileo Gen 2 oferece diversos recursos que a diferenciam:
 8. **Verificação:**  
    Use SSH (através do endereço IP atribuído pelo seu roteador) para acessar o terminal e confirmar a instalação.
 
-   Voce pode utilizar o software Advanced IP Scanner para procurar o IP da placa Galileo.
+   Voce pode utilizar o software Advanced IP Scanner para procurar o IP da placa Galileo, ou se preferir pode utilizar o comando "ipconfig" no Windows PowerShell.
 
    ![image](https://github.com/user-attachments/assets/35749222-477f-4261-9fdc-0ba424b489ec)
 
