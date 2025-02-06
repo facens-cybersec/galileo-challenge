@@ -89,7 +89,7 @@ A Intel® Galileo integra elementos de um microcontrolador e de um computador de
 Para detalhes completos do hardware, consulte os documentos oficiais:
 
 - **Diagrama de Bloco e Esquemáticos:**  
-  [Intel® Galileo Gen 2 Datasheet](https://www.intel.com/content/dam/www/public/us/en/documents/datasheets/galileo-g2-datasheet.pdf)
+  ![Diagrama de bloco](https://github.com/facens-cybersec/galileo-challenge/blob/main/imagens/diagramadeblocos.png?raw=true)
 
 - **Layout dos Headers Arduino:**  
   A disposição dos pinos segue o padrão do Arduino Uno R3, facilitando a integração com shields.  
