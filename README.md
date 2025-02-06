@@ -120,20 +120,11 @@ A Galileo Gen 2 oferece diversos recursos que a diferenciam:
 
 ## 7. Configuração da Placa
 
-### 7.1 Instalação dos Drivers e IDE
-
-1. **Drivers:**  
-   Baixe os drivers específicos para a Intel® Galileo (disponíveis no [site da Intel](https://software.intel.com/en-us/iot/downloads)) e instale-os para que a placa seja reconhecida como um dispositivo serial (COM).
-
 2. **Arduino IDE:**  
    - Abra o Arduino IDE.
    - Vá em **Ferramentas → Placa** e selecione **Intel® Galileo Gen 2**.
    - Escolha a porta serial correspondente.
    - Carregue um exemplo simples, como o **Blink**, para testar a comunicação.
-
-### 7.2 Atualização do Firmware
-
-- Atualize o firmware da placa seguindo as instruções do **Getting Started Guide** da Intel para garantir compatibilidade e estabilidade.
 
 ### 7.3 Configuração de Energia e Conexões
 
@@ -151,19 +142,43 @@ A Galileo Gen 2 oferece diversos recursos que a diferenciam:
 ### Passos Básicos:
 
 1. **Download da Imagem:**  
-   Baixe a imagem Linux (por exemplo, “SDCard.1.0.4.tar.bz2”) do [Centro de Download Intel](https://downloadcenter.intel.com/).
+   Baixe a imagem Linux Alpine (“sdcard.alpine.img.gz”) do Galileu Resurection https://github.com/dmarkey/galileo-resurrection e extraia para uma pasta.
 
-2. **Preparação do Cartão microSD:**  
-   Formate o cartão em FAT32 e utilize uma ferramenta (Win32 Disk Imager ou `dd` no Linux) para gravar a imagem.
+   ![image](https://github.com/user-attachments/assets/ae4829f6-7a11-4069-bb82-6580f9f2f8c7)
 
-3. **Gravação da Imagem:**  
+
+3. **Preparação do Cartão microSD:**  
+   Formate o cartão em FAT32 e utilize uma ferramenta (Win32 Disk Imager) para gravar a imagem.
+  
+   
+5. **Gravação da Imagem:**  
    Siga as instruções da ferramenta para gravar a imagem no cartão e aguarde a conclusão.
 
-4. **Boot:**  
+   Basta selecionar o device com o MicroSD, selecionar a imagem (“sdcard-alpine.img”) em “image file” e clicar em Write.
+
+    ![image](https://github.com/user-attachments/assets/e8b5ba69-104b-456a-bff8-9c212346e500)
+
+
+7. **Boot:**  
    Insira o cartão na placa, conecte a fonte e o cabo USB. A placa fará boot a partir do cartão, carregando o sistema operacional.
 
-5. **Verificação:**  
+8. **Verificação:**  
    Use SSH (através do endereço IP atribuído pelo seu roteador) para acessar o terminal e confirmar a instalação.
+
+   Voce pode utilizar o software Advanced IP Scanner para procurar o IP da placa Galileo.
+
+   ![image](https://github.com/user-attachments/assets/35749222-477f-4261-9fdc-0ba424b489ec)
+
+   
+   Após identificar o IP, acesse o sistema via SSH, utilizando o software PuTTY, coloque o ip da placa Galileo em host name e depois Open.
+   
+   ![image](https://github.com/user-attachments/assets/7149156f-fac1-4caf-8dc9-e4a679b737ef)
+
+   As credenciais padrão são (galileo/galileo ou root/root).
+
+   ![image](https://github.com/user-attachments/assets/5989b327-a2e6-4bad-b400-5ebd04399fac)
+   
+
 
 ---
 
