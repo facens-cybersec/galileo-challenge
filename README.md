@@ -143,6 +143,7 @@ A Galileo Gen 2 oferece diversos recursos que a diferenciam:
 
 1. **Download da Imagem:**  
    Baixe a imagem Linux Alpine (“sdcard.alpine.img.gz”) do Galileu Resurection https://github.com/dmarkey/galileo-resurrection e extraia para uma pasta.
+   Ele já vem com o gerenciador de pacotes funcionando e o SSH configurado.
 
    ![image](https://github.com/user-attachments/assets/ae4829f6-7a11-4069-bb82-6580f9f2f8c7)
 
