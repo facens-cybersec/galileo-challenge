@@ -38,7 +38,7 @@ A Intel® Galileo foi lançada em duas gerações. A tabela a seguir destaca as 
 | **Alimentação (Barrel Jack)**     | 5V (via USB e fonte externa)             | Aceita de 7V a 15V – maior flexibilidade com opção PoE*         |
 | **Console Serial**                | RS‑232 (jack de áudio)                    | Cabeçalho de 6 pinos USB TTL (3,3V), compatível com FTDI         |
 | **PWM**                           | Resolução limitada                        | 6 canais PWM de 12 bits para controle mais preciso              |
-| **Redirecionamento de UART**      | Não disponível                           | UART1 pode ser redirecionado para os headers Arduino             |
+| **Redirecionamento de UART**      | Não disponível                           | UART pode ser redirecionado para os headers Arduino             |
 | **Preço (na época)**              | Aproximadamente US$70                     | Geralmente um pouco mais elevado (US$80 a US$100, dependendo do mercado) |
 
 *Os preços e condições podem variar conforme o mercado e a disponibilidade.  
