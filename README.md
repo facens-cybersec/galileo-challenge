@@ -1,5 +1,8 @@
 # Tutorial: Intel® Galileo – Do Básico à Configuração (Gen 1 vs Gen 2)
 
+[https://www.google.com/url?sa=i&url=https%3A%2F%2Fembarcados.com.br%2Fintel-galileo%2F&psig=AOvVaw3kCfY8lntnxfAlwJdKz8em&ust=1738928756300000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCy88f8rosDFQAAAAAdAAAAABAE
+](https://embarcados.com.br/wp-content/uploads/2014/03/imagem-de-destaque-12.png.webp)
+
 Este tutorial apresenta a placa Intel® Galileo – uma plataforma de desenvolvimento Arduino‑certificada baseada no processador Intel® Quark™ SoC X1000 – abordando:
 
 - **Objetivo e aplicações**
