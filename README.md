@@ -79,8 +79,8 @@ A Intel® Galileo integra elementos de um microcontrolador e de um computador de
 *Imagem ilustrativa da placa Intel® Galileo Gen 1 (fonte: Wikipedia)*
 
 ### Intel® Galileo Gen 2
-![Intel Galileo Gen 2](https://www.mouser.do/images/microsites/galileo-2-raspberry-pi-2-fig-1.png)  
-*Imagem ilustrativa da placa Intel® Galileo Gen 2 (fonte: Botnroll)*
+![Intel Galileo Gen 2](https://github.com/facens-cybersec/galileo-challenge/blob/main/imagens/galileogen2.jpg?raw=true)  
+*Imagem ilustrativa da placa Intel® Galileo Gen 2 
 
 ---
 
@@ -93,7 +93,7 @@ Para detalhes completos do hardware, consulte os documentos oficiais:
 
 - **Layout dos Headers Arduino:**  
   A disposição dos pinos segue o padrão do Arduino Uno R3, facilitando a integração com shields.  
-  ![Header Arduino Compatível](https://raw.githubusercontent.com/arduino/Arduino/main/build/shared/arduino_uno_r3_header.png)
+  ![Header Arduino Compatível](https://github.com/facens-cybersec/galileo-challenge/blob/main/imagens/layout-galileo.jpeg?raw=true)
 
 ---
 
